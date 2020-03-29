@@ -5,7 +5,7 @@ body {
 /* Navbar */
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -40,9 +40,6 @@ h3 {
   width: 100%;
 }
 
-.element2 {
+#bg-color {
   background-color: blue;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
 }
